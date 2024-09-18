@@ -4,27 +4,27 @@
   "icons": [{
     "src": "PSX_20240906_144408.jpg",
       "sizes": "128x128",
-      "type": "image/png"
+      "type": "image/jpg"
     }, {
-      "src": "images/hello-icon-144.png",
+      "src": "PSX_20240906_144408.jpg",
       "sizes": "144x144",
-      "type": "image/png"
+      "type": "image/jpg"
     }, {
-      "src": "images/hello-icon-152.png",
+      "src": "PSX_20240906_144408.jpg",
       "sizes": "152x152",
-      "type": "image/png"
+      "type": "image/jpg"
     }, {
-      "src": "images/hello-icon-192.png",
+      "src": "PSX_20240906_144408.jpg",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/jpg"
     }, {
-      "src": "images/hello-icon-256.png",
+      "src": "PSX_20240906_144408.jpg",
       "sizes": "256x256",
-      "type": "image/png"
+      "type": "image/jpg"
     }, {
-      "src": "images/hello-icon-512.png",
+      "src": "PSX_20240906_144408.jpg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpg"
     }],
   "lang": "en-US",
   "start_url": "/index.html",
